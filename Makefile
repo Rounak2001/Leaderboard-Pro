@@ -1,5 +1,5 @@
 PNPM ?= pnpm
-PYTHON ?= python3
+PYTHON ?= python
 PIP ?= pip3
 
 install:
